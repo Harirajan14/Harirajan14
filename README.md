@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harirajan14
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajanhari96@gmail.com
 
 <!---
